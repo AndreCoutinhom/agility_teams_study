@@ -9,4 +9,6 @@
 * Saiba montar e gerenciar times Scrum;
 * Entenda como facilitar cada evento Scrum em um projeto.
 
+> Todas as informações do curso estão na apresentação de slides [aqui](/Scrum%3A%20agilidade%20em%20seu%20projeto/Alura-PDF-Slides-Scrum-Agilidade%2Bem%2Bseus%2Bprojetos.pdf)
+
 ---
