@@ -17,6 +17,10 @@ Desenvolver softwares não envolve apenas a parte técnica, com a escrita de có
 
 ## Cascata VS. Ágil 🎥
 
+O sistema cascata é usado por engenharias em geral, nos quais projetos são dividos em fases entre 3 tópicos: análise, fundação e pilares. Para softwares, esse sistema não é tão eficiente, porque os clientes precisam de mudanças regularmente.
+
+No sistema ágil, as burocracias conseguem ser mais flexíveis, os feedbacks podem aparecer continuamente ao invés de apenas no final do projeto e as etapas são muito mais mutáveis de acordo com as necessidades que surgem durante o *workflow*, permitindo que o projeto se organize não em etapas temporárias, mas em blocos de trabalho atualizados. 
+
 ---
 
 ## [Kanban: o que é e como funciona](https://www.alura.com.br/artigos/metodo-kanban?_gl=1*rqw887*_ga*ODM1Nzk2OTUyLjE2OTgzNDc1Mjk.*_ga_1EPWSW3PCS*MTcwNzUyNjk0Mi4xOTAuMS4xNzA3NTI2OTUwLjAuMC4w*_fplc*NnRkejJSNkVNczFpNzlBekZHRFZWdUtMMHNRTG82cnJGUmk0dXJOUjh4UU9RYU9VV1pKR2JDM2pSc0ttdU83OTNhZ1I5aWUlMkZURUFlOWZwYlRIbzBWWHNPQWxoUFgxc0M4UXJ5RzM5U1Qwd1dmOFE3U0dMUFdWUHBoeTVvVUElM0QlM0Q.) 📕
