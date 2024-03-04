@@ -34,12 +34,14 @@ No sistema ágil, as burocracias conseguem ser mais flexíveis, os feedbacks pod
 
 ## Scrum x Kanban 🎥
 
----
-
-## [DevOps: Observabilidade – Hipsters Ponto Tech #260](https://cursos.alura.com.br/extra/hipsterstech/devops-observabilidade-hipsters-ponto-tech-260-a1052) 🎧
+As principais diferenças entre Scrum e Kanban está no direcionamento de trabalho. Enquanto no Scrum há sistemas metódicos para tempo, monitoramento e multifunções, o Kanban trabalha com um fluxo de progresso contínuo sem prescrição de tamanho de equipes.
 
 ---
 
 ## O que é eXtreme Programming? 🎥
+
+É uma metodologia ágil em que equipes de desenvolvedores projetam softwares seguindo práticas de adaptação rápida à mudanças e deploy contínuo.
+
+Foi criado por Kent Beck, Ron Jeffries, Ward Cunningham e Martin Fowler como uma forma de desenvolver um projeto de alta complexidade e risco.
 
 ---
